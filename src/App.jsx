@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Facebook from './assets/facebook.svg'
+import Facebook from './assets/Facebook.svg'
 import twitter from './assets/twitter.svg'
 import LinkedIn from './assets/Linkedin.svg'
 import Image from './assets/Image.svg'
